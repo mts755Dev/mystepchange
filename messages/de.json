@@ -1,0 +1,218 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "jobs": "Jobs finden",
+    "forEmployers": "Für Arbeitgeber",
+    "about": "Über uns",
+    "login": "Anmelden",
+    "register": "Jetzt starten",
+    "dashboard": "Dashboard",
+    "logout": "Abmelden"
+  },
+  "landing": {
+    "hero": {
+      "badge": "DSGVO-konforme Recruiting-Plattform",
+      "title": "Ihr Schritt nach Deutschland",
+      "subtitle": "Verbinden Sie internationale Fachkräfte und Auszubildende mit Top-Arbeitgebern in Deutschland — sicher, transparent und professionell.",
+      "cta": "Jobs finden",
+      "ctaEmployer": "Job inserieren",
+      "stats": {
+        "jobs": "Aktive Stellen",
+        "countries": "Herkunftsländer",
+        "placements": "Erfolgreiche Vermittlungen",
+        "satisfaction": "Zufriedenheitsrate"
+      }
+    },
+    "howItWorks": {
+      "title": "So funktioniert es",
+      "subtitle": "Ein transparenter 5-Schritte-Prozess von der Bewerbung bis zur Vermittlung",
+      "steps": {
+        "register": { "title": "Registrierung & Profil", "desc": "Erstellen Sie Ihr Profil mit verifizierten Dokumenten. Ihre persönlichen Daten sind verschlüsselt und geschützt." },
+        "match": { "title": "Intelligentes Matching", "desc": "Unser Algorithmus findet passende Arbeitgeber basierend auf Beruf, Standort und Deutschkenntnissen." },
+        "review": { "title": "Anonyme Prüfung", "desc": "Arbeitgeber sehen nur anonymisierte Profile. Keine persönlichen Daten bis zur Vermittlung." },
+        "interview": { "title": "Vorstellungsgespräch", "desc": "Ausgewählte Kandidaten werden zu Gesprächen eingeladen, die von unseren Recruitern organisiert werden." },
+        "placed": { "title": "Vermittelt & Unterstützt", "desc": "Nach der Vermittlung werden persönliche Daten freigegeben und die Einarbeitungsunterstützung beginnt." }
+      }
+    },
+    "features": {
+      "title": "Warum MyStepChange?",
+      "privacy": { "title": "Datenschutz zuerst", "desc": "AES-256-Verschlüsselung für alle persönlichen Daten. DSGVO-konform mit EU-Datenspeicherung." },
+      "anonymous": { "title": "Anonymisierte Profile", "desc": "Arbeitgeber sehen nur anonymisierte Profile bis zur Vermittlung — keine Diskriminierung." },
+      "automated": { "title": "Automatisierter Prozess", "desc": "Provisionsverfolgung, Rechnungserstellung und Statusaktualisierungen vollständig automatisiert." },
+      "multilingual": { "title": "Mehrsprachige Unterstützung", "desc": "Vollständige Unterstützung auf Englisch und Deutsch. Begleitung bei jedem Schritt." }
+    },
+    "professions": {
+      "title": "Gefragte Berufe",
+      "subtitle": "Deutschland braucht Fachkräfte in Schlüsselbranchen"
+    }
+  },
+  "auth": {
+    "login": "Anmelden",
+    "register": "Konto erstellen",
+    "email": "E-Mail-Adresse",
+    "password": "Passwort",
+    "name": "Vollständiger Name",
+    "role": "Ich bin ein/e...",
+    "roles": {
+      "candidate": "Bewerber/in",
+      "apprentice": "Auszubildende/r",
+      "skilled_worker": "Fachkraft",
+      "employer": "Arbeitgeber",
+      "recruiter": "Recruiter"
+    },
+    "noAccount": "Noch kein Konto?",
+    "hasAccount": "Bereits ein Konto?",
+    "loginLink": "Anmelden",
+    "registerLink": "Registrieren",
+    "forgotPassword": "Passwort vergessen?",
+    "language": "Sprache",
+    "loginSuccess": "Willkommen zurück!",
+    "registerSuccess": "Konto erfolgreich erstellt!",
+    "errors": {
+      "emailRequired": "E-Mail ist erforderlich",
+      "passwordRequired": "Passwort ist erforderlich",
+      "nameRequired": "Name ist erforderlich",
+      "roleRequired": "Bitte wählen Sie eine Rolle",
+      "invalidEmail": "Ungültige E-Mail-Adresse",
+      "passwordTooShort": "Passwort muss mindestens 8 Zeichen lang sein"
+    }
+  },
+  "candidate": {
+    "dashboard": "Mein Dashboard",
+    "profile": "Mein Profil",
+    "documents": "Dokumente",
+    "messages": "Nachrichten",
+    "jobs": "Job-Matches",
+    "status": "Bewerbungsstatus",
+    "statuses": {
+      "in_review": "In Prüfung",
+      "active": "Aktiv",
+      "matched": "Zugeordnet",
+      "interview": "Vorstellungsgespräch",
+      "placed": "Vermittelt"
+    },
+    "statusDescriptions": {
+      "in_review": "Ihr Profil wird von unserem Team geprüft.",
+      "active": "Ihr Profil ist aktiv und für Recruiter sichtbar.",
+      "matched": "Sie wurden passenden Arbeitgebern zugeordnet.",
+      "interview": "Sie wurden für ein Vorstellungsgespräch ausgewählt.",
+      "placed": "Herzlichen Glückwunsch! Sie wurden erfolgreich vermittelt."
+    },
+    "profile": {
+      "profession": "Beruf",
+      "category": "Kategorie",
+      "germanLevel": "Deutschkenntnisse",
+      "location": "Aktueller Standort",
+      "desiredLocation": "Gewünschte Standorte",
+      "experience": "Jahre Berufserfahrung",
+      "skills": "Fähigkeiten",
+      "bio": "Über mich",
+      "save": "Profil speichern",
+      "saved": "Profil gespeichert!"
+    },
+    "documents": {
+      "upload": "Dokument hochladen",
+      "type": "Dokumenttyp",
+      "types": {
+        "cv": "Lebenslauf",
+        "certificate": "Zertifikat",
+        "diploma": "Diplom",
+        "language_cert": "Sprachzertifikat",
+        "other": "Sonstiges"
+      },
+      "status": {
+        "pending": "Verifizierung ausstehend",
+        "verified": "Verifiziert",
+        "anonymized": "Für Arbeitgeber anonymisiert"
+      },
+      "uploadSuccess": "Dokument erfolgreich hochgeladen!"
+    }
+  },
+  "employer": {
+    "dashboard": "Arbeitgeber-Dashboard",
+    "jobs": "Meine Stellenanzeigen",
+    "candidates": "Kandidatenpool",
+    "postJob": "Neue Stelle inserieren",
+    "profile": "Unternehmensprofil",
+    "invoice": "Rechnungen",
+    "candidateAnonymized": "Profile sind bis zur Vermittlung anonymisiert",
+    "noDirectContact": "Direktkontakt ist vor der Vermittlung nicht erlaubt"
+  },
+  "recruiter": {
+    "dashboard": "Recruiter-Dashboard",
+    "candidates": "Meine Kandidaten",
+    "commissions": "Provisions-Tracker",
+    "stats": {
+      "total": "Kandidaten gesamt",
+      "active": "Aktiv",
+      "placed": "Vermittelt",
+      "earnings": "Gesamtverdienst"
+    }
+  },
+  "admin": {
+    "dashboard": "Admin-Panel",
+    "users": "Benutzerverwaltung",
+    "documents": "Dokumentenprüfung",
+    "commissions": "Provisionsverwaltung",
+    "candidates": "Alle Kandidaten",
+    "messages": "Nachrichten",
+    "stats": {
+      "totalUsers": "Benutzer gesamt",
+      "pendingDocs": "Ausstehende Dokumente",
+      "activeJobs": "Aktive Stellen",
+      "commissions": "Offene Provisionen"
+    }
+  },
+  "jobs": {
+    "search": "Jobs suchen",
+    "filter": "Filter",
+    "profession": "Beruf",
+    "location": "Standort",
+    "germanLevel": "Deutschkenntnisse",
+    "salary": "Gehaltsbereich",
+    "category": "Kategorie",
+    "apply": "Jetzt bewerben",
+    "requirements": "Anforderungen",
+    "noJobs": "Keine passenden Jobs gefunden.",
+    "matchScore": "Übereinstimmung"
+  },
+  "commission": {
+    "statuses": {
+      "pending": "Ausstehend",
+      "in_progress": "In Bearbeitung",
+      "paid": "Bezahlt"
+    },
+    "amount": "Provisionsbetrag",
+    "invoice": "Rechnung",
+    "downloadPDF": "PDF herunterladen",
+    "markPaid": "Als bezahlt markieren"
+  },
+  "common": {
+    "loading": "Laden...",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "view": "Ansehen",
+    "back": "Zurück",
+    "next": "Weiter",
+    "submit": "Absenden",
+    "search": "Suchen",
+    "filter": "Filter",
+    "all": "Alle",
+    "yes": "Ja",
+    "no": "Nein",
+    "status": "Status",
+    "date": "Datum",
+    "actions": "Aktionen",
+    "noData": "Keine Daten verfügbar",
+    "success": "Erfolg",
+    "error": "Fehler",
+    "required": "Pflichtfeld",
+    "optional": "Optional",
+    "verified": "Verifiziert",
+    "pending": "Ausstehend",
+    "active": "Aktiv",
+    "inactive": "Inaktiv"
+  }
+}

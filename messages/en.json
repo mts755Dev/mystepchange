@@ -1,0 +1,218 @@
+{
+  "nav": {
+    "home": "Home",
+    "jobs": "Find Jobs",
+    "forEmployers": "For Employers",
+    "about": "About",
+    "login": "Log In",
+    "register": "Get Started",
+    "dashboard": "Dashboard",
+    "logout": "Log Out"
+  },
+  "landing": {
+    "hero": {
+      "badge": "GDPR-Compliant Recruitment Platform",
+      "title": "Your Step Change to Germany",
+      "subtitle": "Connect international skilled workers and apprentices with top German employers — securely, transparently, and professionally.",
+      "cta": "Find Jobs",
+      "ctaEmployer": "Post a Job",
+      "stats": {
+        "jobs": "Active Jobs",
+        "countries": "Source Countries",
+        "placements": "Successful Placements",
+        "satisfaction": "Satisfaction Rate"
+      }
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "subtitle": "A transparent 5-step process from application to placement",
+      "steps": {
+        "register": { "title": "Register & Profile", "desc": "Create your profile with verified documents. Your personal data is encrypted and protected." },
+        "match": { "title": "Smart Matching", "desc": "Our algorithm matches you with suitable employers based on profession, location, and German level." },
+        "review": { "title": "Anonymous Review", "desc": "Employers review anonymized profiles. No personal data shared until placement." },
+        "interview": { "title": "Interview Stage", "desc": "Selected candidates proceed to interviews arranged by our recruiter team." },
+        "placed": { "title": "Placed & Supported", "desc": "Upon placement, personal data is released and onboarding support begins." }
+      }
+    },
+    "features": {
+      "title": "Why MyStepChange?",
+      "privacy": { "title": "Privacy First", "desc": "AES-256 encryption for all personal data. GDPR-compliant with EU data storage." },
+      "anonymous": { "title": "Anonymized Profiles", "desc": "Employers only see anonymized profiles until formal placement — zero discrimination." },
+      "automated": { "title": "Automated Process", "desc": "Commission tracking, invoice generation, and status updates are fully automated." },
+      "multilingual": { "title": "Multilingual Support", "desc": "Full support in English and German. Guidance at every step." }
+    },
+    "professions": {
+      "title": "In-Demand Professions",
+      "subtitle": "Germany needs skilled workers across key sectors"
+    }
+  },
+  "auth": {
+    "login": "Log In",
+    "register": "Create Account",
+    "email": "Email Address",
+    "password": "Password",
+    "name": "Full Name",
+    "role": "I am a...",
+    "roles": {
+      "candidate": "Candidate",
+      "apprentice": "Apprentice",
+      "skilled_worker": "Skilled Worker",
+      "employer": "Employer",
+      "recruiter": "Recruiter"
+    },
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "loginLink": "Log in",
+    "registerLink": "Sign up",
+    "forgotPassword": "Forgot password?",
+    "language": "Language",
+    "loginSuccess": "Welcome back!",
+    "registerSuccess": "Account created successfully!",
+    "errors": {
+      "emailRequired": "Email is required",
+      "passwordRequired": "Password is required",
+      "nameRequired": "Name is required",
+      "roleRequired": "Please select a role",
+      "invalidEmail": "Invalid email address",
+      "passwordTooShort": "Password must be at least 8 characters"
+    }
+  },
+  "candidate": {
+    "dashboard": "My Dashboard",
+    "profile": "My Profile",
+    "documents": "Documents",
+    "messages": "Messages",
+    "jobs": "Job Matches",
+    "status": "Application Status",
+    "statuses": {
+      "in_review": "Under Review",
+      "active": "Active",
+      "matched": "Matched",
+      "interview": "Interview",
+      "placed": "Placed"
+    },
+    "statusDescriptions": {
+      "in_review": "Your profile is being reviewed by our team.",
+      "active": "Your profile is active and visible to recruiters.",
+      "matched": "You have been matched with suitable employers.",
+      "interview": "You have been selected for an interview.",
+      "placed": "Congratulations! You have been placed successfully."
+    },
+    "profile": {
+      "profession": "Profession",
+      "category": "Category",
+      "germanLevel": "German Level",
+      "location": "Current Location",
+      "desiredLocation": "Desired Location(s)",
+      "experience": "Years of Experience",
+      "skills": "Skills",
+      "bio": "About Me",
+      "save": "Save Profile",
+      "saved": "Profile saved!"
+    },
+    "documents": {
+      "upload": "Upload Document",
+      "type": "Document Type",
+      "types": {
+        "cv": "CV / Resume",
+        "certificate": "Certificate",
+        "diploma": "Diploma",
+        "language_cert": "Language Certificate",
+        "other": "Other"
+      },
+      "status": {
+        "pending": "Pending Verification",
+        "verified": "Verified",
+        "anonymized": "Anonymized for Employers"
+      },
+      "uploadSuccess": "Document uploaded successfully!"
+    }
+  },
+  "employer": {
+    "dashboard": "Employer Dashboard",
+    "jobs": "My Job Listings",
+    "candidates": "Candidate Pool",
+    "postJob": "Post New Job",
+    "profile": "Company Profile",
+    "invoice": "Invoices",
+    "candidateAnonymized": "Profiles are anonymized until placement",
+    "noDirectContact": "Direct contact is not permitted before placement"
+  },
+  "recruiter": {
+    "dashboard": "Recruiter Dashboard",
+    "candidates": "My Candidates",
+    "commissions": "Commission Tracker",
+    "stats": {
+      "total": "Total Candidates",
+      "active": "Active",
+      "placed": "Placed",
+      "earnings": "Total Earnings"
+    }
+  },
+  "admin": {
+    "dashboard": "Admin Panel",
+    "users": "User Management",
+    "documents": "Document Verification",
+    "commissions": "Commission Oversight",
+    "candidates": "All Candidates",
+    "messages": "Messages",
+    "stats": {
+      "totalUsers": "Total Users",
+      "pendingDocs": "Pending Documents",
+      "activeJobs": "Active Jobs",
+      "commissions": "Open Commissions"
+    }
+  },
+  "jobs": {
+    "search": "Search Jobs",
+    "filter": "Filter",
+    "profession": "Profession",
+    "location": "Location",
+    "germanLevel": "German Level",
+    "salary": "Salary Range",
+    "category": "Category",
+    "apply": "Apply Now",
+    "requirements": "Requirements",
+    "noJobs": "No jobs found matching your criteria.",
+    "matchScore": "Match Score"
+  },
+  "commission": {
+    "statuses": {
+      "pending": "Pending",
+      "in_progress": "In Progress",
+      "paid": "Paid"
+    },
+    "amount": "Commission Amount",
+    "invoice": "Invoice",
+    "downloadPDF": "Download PDF",
+    "markPaid": "Mark as Paid"
+  },
+  "common": {
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "search": "Search",
+    "filter": "Filter",
+    "all": "All",
+    "yes": "Yes",
+    "no": "No",
+    "status": "Status",
+    "date": "Date",
+    "actions": "Actions",
+    "noData": "No data available",
+    "success": "Success",
+    "error": "Error",
+    "required": "Required",
+    "optional": "Optional",
+    "verified": "Verified",
+    "pending": "Pending",
+    "active": "Active",
+    "inactive": "Inactive"
+  }
+}
