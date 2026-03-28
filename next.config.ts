@@ -5,7 +5,6 @@ const withNextIntl = createNextIntlPlugin();
 
 const nextConfig: NextConfig = {
   reactStrictMode: true,
-  outputFileTracingRoot: "c:/Users/X/Work/MSC",
   images: {
     remotePatterns: [
       {
